@@ -44,3 +44,13 @@
 - [codepen.io](https://codepen.io/MillerTime/pen/BexBbE)
 - [codepen.io](https://codepen.io/myacode/pen/PoqQQNM)
 - [codepen.io](https://codepen.io/isladjan/pen/bGpjZwN)
+
+
+https://www.google.com/search?q=web+worker&rlz=1C1CHBD_frMA980MA980&oq=web+worker&aqs=chrome..69i57.4350j0j1&sourceid=chrome&ie=UTF-8
+https://developer.mozilla.org/fr/docs/Web/API/Web_Workers_API/Using_web_workers
+https://www.google.com/search?q=what+web+worker+do&rlz=1C1CHBD_frMA980MA980&oq=what+web+worker+do&aqs=chrome..69i57.19334j0j1&sourceid=chrome&ie=UTF-8
+https://www.w3schools.com/html/html5_webworkers.asp#:~:text=A%20web%20worker%20is%20a%20JavaScript%20that%20runs%20in%20the,worker%20runs%20in%20the%20background.
+https://www.google.com/search?q=webpack+js&rlz=1C1CHBD_frMA980MA980&oq=webpack+js&aqs=chrome..69i57j0i512l2j0i20i263i512j0i512l3j0i20i263i512j0i22i30l2.1239j0j4&sourceid=chrome&ie=UTF-8
+https://www.google.com/search?q=vuexy&rlz=1C1CHBD_frMA980MA980&oq=vuexy&aqs=chrome..69i57.4030j0j1&sourceid=chrome&ie=UTF-8
+https://lodash.com/
+https://emotion.sh/docs/introduction
