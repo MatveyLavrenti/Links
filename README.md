@@ -54,3 +54,4 @@ https://www.google.com/search?q=webpack+js&rlz=1C1CHBD_frMA980MA980&oq=webpack+j
 https://www.google.com/search?q=vuexy&rlz=1C1CHBD_frMA980MA980&oq=vuexy&aqs=chrome..69i57.4030j0j1&sourceid=chrome&ie=UTF-8
 https://lodash.com/
 https://emotion.sh/docs/introduction
+https://tailwindcss.com/
