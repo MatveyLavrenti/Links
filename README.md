@@ -55,3 +55,12 @@
 - https://lodash.com/
 - https://emotion.sh/docs/introduction
 - https://tailwindcss.com/
+
+- https://www.javascript.com/resources
+- https://javascript.info/
+- https://google.github.io/styleguide/jsguide.html
+- https://underscorejs.org/
+- https://createjs.com/
+- https://www.geeksforgeeks.org/javascript-code-execution/#:~:text=In%20the%20Code%20Execution%20Phase,Phase%20in%20the%20Memory%20Component.
+
+- https://www.compart.com/fr/unicode/
